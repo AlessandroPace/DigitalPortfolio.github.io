@@ -1,0 +1,19 @@
+<style>
+        header {
+           background-color: darkmagenta;
+           color: white;
+        }
+        
+        nav {
+            background-color: #35283B;
+        }
+        
+        header nav ul li {
+            list-style-type: none;
+            display: inline-block;
+            min-width: 120px;
+        }
+    
+    </style>
+
+  <h1 id="home">Welcome to my Website</h1>
